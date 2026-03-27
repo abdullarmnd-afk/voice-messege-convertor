@@ -1,0 +1,7 @@
+{
+  "name": "Vocalize AI",
+  "description": "Convert voice messages to text, summarize them, and translate using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
